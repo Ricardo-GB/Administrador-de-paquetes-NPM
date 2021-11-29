@@ -1,0 +1,16 @@
+{
+  "name": "paquetes",
+  "version": "1.0.0",
+  "description": "ejemplo npm nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo GB",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": " Ricardo-GB /"
+  }
+}
